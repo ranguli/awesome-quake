@@ -39,7 +39,6 @@ _Resources for creating your own Quake maps_
 - [Rust Quake](https://github.com/Thinkofname/rust-quake) - Map renderer implemented in Rust.
 - [ericw-tools](https://github.com/ericwa/ericw-tools) - An essential toolkit for mappers.
 - [BSPInfo](https://github.com/kduske/BSPInfo) - Extract useful data from BSPs.
-- [quake-cli-tools](https://github.com/joshuaskelly/quake-cli-tools) - Create and extract PAK, WAD and BSP files.
 - [tmx2map](https://github.com/joshuaskelly/tmx2map) - Convert Tiled maps into Quake maps.
 - [io_scene_bsp](https://github.com/joshuaskelly/io_scene_bsp) - Blender 2.80 addon for loading Quake BSP files.
 - [blender_io_mesh_bsp](https://github.com/andyp123/blender_io_mesh_bsp) - Blender addon for importing BSP files.
