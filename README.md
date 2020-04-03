@@ -56,6 +56,7 @@ _Repositories containing the source code of Quake mods_
 
 ## Resources
 
+- [Quaddicted](https://quaddicted.com/)
 - [Quakecast](https://quakecast.podbean.com)
 - [Quake Mapping Discord](https://discordapp.com/invite/f5Y99aM)
 - [dumptruck_ds](https://www.youtube.com/channel/UCF502yOYr_olPaw6xgnYmaQ) (YouTube)
