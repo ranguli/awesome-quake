@@ -8,6 +8,7 @@
 - [Standalones](#standalones)
 - [Sourceports](#sourceports)
 - [Mapping](#mapping)
+- [Playing](#playing)
 - [Modeling](#modeling)
 - [Modding](#modding)
 - [Mods](#mods)
@@ -24,6 +25,12 @@ _Derivations of the original Quake engine_
 - [Quakespasm](https://github.com/ericwa/Quakespasm)
 - [vkQuake](https://github.com/Novum/vkQuake) - Vulkan port based on QuakeSpasm.
 - [WebQuake](https://github.com/Triang3l/WebQuake) - HTML5/WebGL port of Quake.
+
+## Playing
+_Tools for a better Quaking experience_
+
+- [Simple Quake Launcher 2](https://github.com/m-x-d/Simple-Quake-Launcher-2) - A simple map/mod/demo launcher for Quake, Quake 2, Hexen 2 and Half-Life.
+- [Quake Injector](https://github.com/hrehfeld/QuakeInjector) - Download, install and play quake singleplayer maps from the quaddicted.com archive.
 
 ## Mapping
 _Resources for creating your own Quake maps_
