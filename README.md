@@ -7,8 +7,8 @@
 
 - [Standalones](#standalones)
 - [Sourceports](#sourceports)
-- [Mapping](#mapping)
 - [Playing](#playing)
+- [Mapping](#mapping)
 - [Modeling](#modeling)
 - [Modding](#modding)
 - [Mods](#mods)
