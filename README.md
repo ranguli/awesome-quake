@@ -7,7 +7,7 @@
 
 - [Standalones](#standalones)
 - [Sourceports](#sourceports)
-- [Mapping](#mapping) 
+- [Mapping](#mapping)
 - [Modeling](#modeling)
 - [Modding](#modding)
 - [Mods](#mods)
@@ -36,7 +36,11 @@ _Resources for creating your own Quake maps_
 - [tmx2map](https://github.com/joshuaskelly/tmx2map) - Convert Tiled maps into Quake maps.
 - [io_scene_bsp](https://github.com/joshuaskelly/io_scene_bsp) - Blender 2.80 addon for loading Quake BSP files.
 - [blender_io_mesh_bsp](https://github.com/andyp123/blender_io_mesh_bsp) - Blender addon for importing BSP files.
-- [BSP2OBJ](https://github.com/measuredweighed/BSP2OBJ) - Python module and CLI tool for convertings BSPs to OBJ/MTL files with textures. 
+- [BSP2OBJ](https://github.com/measuredweighed/BSP2OBJ) - Python module and CLI tool for converting BSPs to OBJ/MTL files with textures.
+- [quake-cli-tools](https://github.com/joshuaskelly/quake-cli-tools) - A set of command line tools for creating Quake content.
+- [netradiant-custom](https://github.com/Garux/netradiant-custom) - The open-source, cross-platform level editor for id Tech based games.
+- [quake-leveldesign-starterkit](https://github.com/jonathanlinat/quake-leveldesign-starterkit) - Starter Kit mainly based on files / directory structure and set of tools recommended by dumptruck_ds.
+
 
 ## Modeling
 _Creating 3D models for the Quake engine_
@@ -47,7 +51,7 @@ _Creating 3D models for the Quake engine_
 - [gmqcc](https://github.com/graphitemaster/gmqcc) - An improved QuakeC compiler.
 - [progs_dump](https://github.com/dumptruckDS/progs_dump_qc) - QuakeC library offering extended features while staying true to the original game.
 
-## Mods 
+## Mods
 _Repositories containing the source code of Quake mods_
 
 - [q2048](https://github.com/jhspetersson/q2048) - Remake of 2048 inside Quake.
@@ -61,7 +65,7 @@ _Repositories containing the source code of Quake mods_
 - [Quake Mapping Discord](https://discordapp.com/invite/f5Y99aM)
 - [dumptruck_ds](https://www.youtube.com/channel/UCF502yOYr_olPaw6xgnYmaQ) (YouTube)
 - [r/Quake](https://reddit.com/r/quake)
-  
+
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
