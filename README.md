@@ -46,6 +46,7 @@ _Resources for creating your own Quake maps_
 - [quake-cli-tools](https://github.com/joshuaskelly/quake-cli-tools) - A set of command line tools for creating Quake content.
 - [netradiant-custom](https://github.com/Garux/netradiant-custom) - The open-source, cross-platform level editor for id Tech based games.
 - [quake-leveldesign-starterkit](https://github.com/jonathanlinat/quake-leveldesign-starterkit) - Starter Kit mainly based on files / directory structure and set of tools recommended by dumptruck_ds.
+- [qodot](https://github.com/Shfty/qodot-plugin) - Plugin for the Godot map editor that adds support for importing Quake `.map` files.
 
 
 ## Modeling
