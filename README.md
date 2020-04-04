@@ -70,7 +70,7 @@ _Repositories containing the source code of Quake mods_
 - [Quaddicted](https://quaddicted.com/)
 - [Quakecast](https://quakecast.podbean.com)
 - [Quake Mapping Discord](https://discordapp.com/invite/f5Y99aM)
-- [dumptruck_ds](https://www.youtube.com/channel/UCF502yOYr_olPaw6xgnYmaQ) (YouTube)
+- Quake mapping tutorials, and other Quake-related videos, by [dumptruck_ds](https://www.youtube.com/channel/UCF502yOYr_olPaw6xgnYmaQ) (YouTube)
 - [r/Quake](https://reddit.com/r/quake)
 
 ## Contribute
