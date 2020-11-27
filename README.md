@@ -57,6 +57,7 @@ _Creating 3D models for the Quake engine_
 ## Modding
 - [gmqcc](https://github.com/graphitemaster/gmqcc) - An improved QuakeC compiler.
 - [progs_dump](https://github.com/dumptruckDS/progs_dump_qc) - QuakeC library offering extended features while staying true to the original game.
+- [qpal](https://github.com/jmickle66666666/qpal) - Convert between Quake palette files and PNGs, to create new palettes for Quake.
 
 ## Mods
 _Repositories containing the source code of Quake mods_
