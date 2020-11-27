@@ -65,6 +65,14 @@ _Repositories containing the source code of Quake mods_
 - [q2048](https://github.com/jhspetersson/q2048) - Remake of 2048 inside Quake.
 - [Arcane Dimensions](https://github.com/SimsOCallaghan/ArcaneDimensions)
 
+## Miscellaneous 
+_Other Quake goodies_
+
+- [rust-quake](https://github.com/Thinkofname/rust-quake) - Simple Quake map renderer written in Rust.
+- [rs_wad](https://github.com/bjt0/rs_wad) - Rust library for loading `.wad` files.
+- [demsmooth](https://github.com/mandelmassa/demsmooth) - Smooth movement and camera angles in Quake demos.
+- [quaddicted](https://github.com/hemebond/quaddicted) - Repository for the new Django-based Quaddicted.
+- [django-quaddicted-api](https://github.com/hemebond/django-quaddicted-api) - REST API for for the new Django-based Quaddicted.
 
 ## Resources
 
