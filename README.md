@@ -22,9 +22,21 @@ _Games created using a form of the Quake engine_
 ## Sourceports
 _Derivations of the original Quake engine_
 
-- [Quakespasm](https://github.com/ericwa/Quakespasm)
-- [vkQuake](https://github.com/Novum/vkQuake) - Vulkan port based on QuakeSpasm.
+### Quake
+_Also called "NetQuake". Recommended for singleplayer._
+
+- [Ironwail](https://github.com/andrei-drexler/ironwail) - Enhanced port based on QuakeSpasm, featuring high-performance OpenGL 4 rendering and most features from QuakeSpasm-Spiked.
+- [Quakespasm](https://github.com/sezero/quakespasm) - "Reference" source port based on GLQuake.
+- [Quakespasm-Spiked](https://github.com/Shpoike/Quakespasm) - Enhanced port based on QuakeSpasm.
+- [vkQuake](https://github.com/Novum/vkQuake) - Vulkan port based on QuakeSpasm with most features from QuakeSpasm-Spiked.
 - [WebQuake](https://github.com/Triang3l/WebQuake) - HTML5/WebGL port of Quake.
+
+### QuakeWorld
+_Recommended for multiplayer thanks to improved networking and client-side prediction._
+
+- [ezQuake](https://github.com/qw-group/ezquake-source) - Source port intended for competitive multiplayer.
+- [FTEQW](https://github.com/fte-team/fteqw) - Source port with advanced graphics features, designed to support standalone games. Also supports Hexen 2, Quake 2 and Quake 3 with a single executable.
+
 
 ## Playing
 _Tools for a better Quaking experience_
@@ -65,7 +77,7 @@ _Repositories containing the source code of Quake mods_
 - [q2048](https://github.com/jhspetersson/q2048) - Remake of 2048 inside Quake.
 - [Arcane Dimensions](https://github.com/SimsOCallaghan/ArcaneDimensions)
 
-## Miscellaneous 
+## Miscellaneous
 _Other Quake goodies_
 
 - [rust-quake](https://github.com/Thinkofname/rust-quake) - Simple Quake map renderer written in Rust.
