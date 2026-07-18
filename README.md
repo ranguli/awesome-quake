@@ -34,6 +34,7 @@ _Also called "NetQuake". Recommended for singleplayer._
 ### QuakeWorld
 _Recommended for multiplayer thanks to improved networking and client-side prediction._
 
+- [classicQ](https://github.com/classicq/classicq) - Classic-feel QuakeWorld client forked from Fodquake, with a modern SDL_GPU (SDL3) renderer.
 - [ezQuake](https://github.com/qw-group/ezquake-source) - Source port intended for competitive multiplayer.
 - [FTEQW](https://github.com/fte-team/fteqw) - Source port with advanced graphics features, designed to support standalone games. Also supports Hexen 2, Quake 2 and Quake 3 with a single executable.
 
